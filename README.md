@@ -14,13 +14,8 @@ This project provides a web application for detecting lanes in videos using Open
 1. Clone the repository:
    ```bash
    git clone https://github.com/gauravyadav016-png/Lane_Detection.git
-   cd lane-detection
+   cd Lane_Detection
 
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
